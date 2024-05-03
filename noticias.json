@@ -1,0 +1,527 @@
+[
+  {
+    "id": 0,
+    "titulo": "Las autoridades de Baja California encuentran tres cadáveres en la zona donde desaparecieron tres surfistas extranjeros",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/XITQMPTZV3EO7IWMQ3WSUCRBWQ.jpg?auth=d13935d91fadc1fa1765ecef322ce17d406217e20dc640226f094ab5ce1d7ab7&width=414&height=233&focal=2082%2C2400",
+    "descripcion": "La Fiscalía estatal detuvo a tres personas vinculadas a la desaparición de dos australianos y un estadounidense en Punta San José, cerca de Ensenada, el pasado 27 de abril",
+    "enlace": "https://elpais.com/mexico/2024-05-03/las-autoridades-de-baja-california-encuentran-tres-cadaveres-en-la-zona-donde-desaparecieron-tres-surfistas-extranjeros.html"
+  },
+  {
+    "id": 1,
+    "titulo": "La Caja Mágica, y también la de la mala suerte",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/DXLLA4A7ZFJE4O5UJCFBUZHD24.jpg?auth=ec868cdfc8068fd90ba74eccbf67e5950d6ea49ad5d62aa8a3014b1f65a59b68&width=414&height=233&focal=1443%2C930",
+    "descripcion": "La lesión de Lehecka, tras solo seis juegos, guía al afortunado Auger-Aliassime a la final con Rublev en la edición del infortunio: también cayeron Sinner y Medvedev",
+    "enlace": "https://elpais.com/deportes/tenis/2024-05-03/la-caja-magica-y-tambien-la-de-la-mala-suerte.html"
+  },
+  {
+    "id": 2,
+    "titulo": "En la protesta de Francia: “Somos jóvenes, nos duele sentirnos impotentes ante Gaza”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/LRYNUHAXCBE6HMYKKK2AVSZGD4.jpg?auth=8ce8bde69fd82e393e3c082e42b39652f3d240b8c7d5d9fda8bb08d7efb5ca45&width=414&height=233&focal=2781%2C2853",
+    "descripcion": "La policía francesa desaloja Sciences Po y un grupo inicia una huelga de hambre, pero los estudiantes afrontan dificultades para ampliar la movilización",
+    "enlace": "https://elpais.com/internacional/2024-05-03/en-la-protesta-de-francia-somos-jovenes-nos-duele-sentirnos-impotentes-ante-gaza.html"
+  },
+  {
+    "id": 3,
+    "titulo": "Barcelona y Palma se citan en la final de la Champions de fútbol sala",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/KIEJXVA5ARHJFA3SGOIUK2KQGQ.jpg?auth=df2b0a5ba35ca51e6bcc7eb4d6f43ae165f1e506e8ae144e54338911e4d624c9&width=414&height=233&focal=447%2C296",
+    "descripcion": "En las semifinales, el equipo azulgrana se impone al Sporting (5-4) y el mallorquín al Benfica (4-4, en los penaltis)",
+    "enlace": "https://elpais.com/deportes/2024-05-03/barcelona-y-palma-se-citan-en-la-final-de-la-champions.html"
+  },
+  {
+    "id": 4,
+    "titulo": "Las inundaciones en Río Grande del Sur, Brasil, vistas desde el aire",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/T7WBJX6NB7QF44VC263L7XPZEQ.jpg?auth=64e6bc9e8f1c639bf52d2a1dba4f90c629dfd3946719549aa6bc7488f9f37fa9&width=414&height=233&smart=true",
+    "descripcion": "Al menos 37 personas han muerto y otras 74 están desaparecidas por las inundaciones",
+    "enlace": "https://elpais.com/america/2024-05-03/las-inundaciones-en-rio-grande-del-sur-brasil-vistas-desde-el-aire.html?autoplay=1"
+  },
+  {
+    "id": 5,
+    "titulo": "Adrian Newey, el gurú de Red Bull, en boca de todos",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/IVRF73PH5O5ZYGIULJRE5R6TUM.jpg?auth=f9bd62281703a79b5641c264a9f0d3d1218be01f8d04edc8e2c0f955750caef9&width=414&height=233&focal=2221%2C1255",
+    "descripcion": "Días después de que la marca energética confirmara su marcha, el director técnico es agasajado por la mayoría de equipos del Mundial",
+    "enlace": "https://elpais.com/deportes/formula-1/2024-05-03/adrian-newey-el-guru-de-red-bull-en-boca-de-todos.html"
+  },
+  {
+    "id": 6,
+    "titulo": "Las universidades de EE UU se blindan para las graduaciones mientras continúan las protestas por Gaza",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/NZZOMWPODFBR7APPVBFTTEKVZY.jpg?auth=eef63dbfa05f1799aedc66cb01ea22b8009f86d836124a170a09b3fe5a5d5ac1&width=414&height=233&smart=true",
+    "descripcion": "Los desalojos policiales no frenan las manifestaciones en los campus",
+    "enlace": "https://elpais.com/internacional/2024-05-03/las-universidades-de-ee-uu-se-blindan-para-las-graduaciones-mientras-continuan-las-protestas-por-gaza.html?autoplay=1"
+  },
+  {
+    "id": 7,
+    "titulo": "Un responsable del escándalo de los carrotanques de La Guajira acusa de corrupción a los presidentes del Senado y la Cámara",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/U2KDMZQ6HFEU5ERPNYH2I6TTPM.jpg?auth=d5e4376ba7859ed7d0e67647fe6d41d525ca764e49b1519da011120b3fe790b7&width=414&height=233&smart=true",
+    "descripcion": "Sneyder Pinilla, antiguo subdirector de la Unidad Nacional de Gestión del Riesgo de Desastres, denuncia que le entregó 3.000 millones de pesos a Iván Name y 1.000 millones a Andrés Calle para acelerar las reformas de Petro",
+    "enlace": "https://elpais.com/america-colombia/2024-05-03/un-responsable-de-la-corrupcion-en-los-carrotanques-de-la-guajira-acusa-a-los-presidentes-del-senado-y-la-camara-de-recibir-sobornos-multimillonarios.html"
+  },
+  {
+    "id": 8,
+    "titulo": "El fiscal de La Haya denuncia presiones ante las posibles medidas contra dirigentes israelíes por la guerra de Gaza",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WLCCUY7A35FPFLKEG4TMBIRDOQ.jpg?auth=593969a556a78dfa071ee476fb4bf1d6e0133dd71b402927d0ea8ce5ffe7cae7&width=414&height=233&focal=1831%2C1520",
+    "descripcion": "Karim Khan alerta de que las amenazas de represalia contra el tribunal pueden constituir “un acto punible” ",
+    "enlace": "https://elpais.com/internacional/2024-05-03/el-fiscal-de-la-haya-denuncia-presiones-ante-las-posibles-medidas-contra-dirigentes-israelies-por-la-guerra-de-gaza.html"
+  },
+  {
+    "id": 9,
+    "titulo": "Dos bars que van lents però lluny com la comunitat Slow Food Catalunya",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/USKCM7ROARAVHCAF5QUVRCPWDU.jpg?auth=31dfb66a7982cb9cbe71fa573835a8fa559127cd24e7a39eb96cfefe9e31306e&width=414&height=233&smart=true",
+    "descripcion": "L’associació que aposta pel producte ecològic i de proximitat publicarà la seva primera guia al novembre",
+    "enlace": "https://elpais.com/quadern/tendencies/2024-05-03/dos-bars-que-van-lents-pero-lluny-com-la-comunitat-slow-food-catalunya.html"
+  },
+  {
+    "id": 10,
+    "titulo": "Sheinbaum envía un mensaje al Poder Judicial: “No puede lavarse las manos frente a la inseguridad”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/A7R6RJ2FRVGHTHZKJMV7VZIHUA.jpg?auth=5bc862f9b46ff554d79cfed3ef68e9ea6a10b950c978b73efdd18aefaca317a0&width=414&height=233&focal=1781%2C1048",
+    "descripcion": "La candidata presidencial de Morena señala que los jueces tienen que “cooperar en la pacificación del país”",
+    "enlace": "https://elpais.com/mexico/elecciones-mexicanas/2024-05-03/sheinbaum-envia-un-mensaje-al-poder-judicial-no-puede-lavarse-las-manos-frente-a-la-inseguridad.html"
+  },
+  {
+    "id": 11,
+    "titulo": "Pemex aplaza el arranque de la refinería Dos Bocas a junio de 2024: “Faltan semanas”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ZTCZLRE5EJHEVP7K4TVWPDOC3U.jpg?auth=b023df0e58538d01662146a71e51d332df298c4e262a3ccb6c8837ed54ebb4fa&width=414&height=233&focal=2145%2C248",
+    "descripcion": "El complejo, con un costo de más de 16.000 millones de dólares, produciría 177.000 barriles diarios de gasolinas este año",
+    "enlace": "https://elpais.com/mexico/2024-05-03/pemex-aplaza-el-arranque-de-la-refineria-dos-bocas-a-junio-de-2024-faltan-semanas.html"
+  },
+  {
+    "id": 12,
+    "titulo": "La segunda ola de calor comienza en México con temperaturas mayores a 45 grados",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/EM424VUT45HHNM5DXZKDFAF4IA.jpg?auth=6e01651e8e8d275038b2ed5471309417136080387d630ce5a27514c746b79f4f&width=414&height=233&focal=1806%2C2819",
+    "descripcion": "Las autoridades recomiendan hidratarse adecuadamente, evitar exponerse a la radiación solar durante tiempos prolongados y poner especial atención a enfermos crónicos, niños y adultos mayores ",
+    "enlace": "https://elpais.com/mexico/2024-05-03/la-segunda-ola-de-calor-comienza-en-mexico-con-temperaturas-mayores-a-45-grados.html"
+  },
+  {
+    "id": 13,
+    "titulo": "El poderío de Tan (II)",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/REXPHAPXTFGHNASIHXT7LJP5CI.jpg?auth=64e87361bab9d42ba77bcc558f84c9e9a6da8b49601b2ed6d484ffa73086649b&width=414&height=233&focal=375%2C379",
+    "descripcion": "La indiscutible vencedora del Candidatas empezó transformando una pequeña ventaja en una victoria frente a su peligrosa compatriota Lei",
+    "enlace": "https://elpais.com/ajedrez/partidas/2024-05-03/el-poderio-de-tan-ii.html"
+  },
+  {
+    "id": 14,
+    "titulo": "Ley de agentes extranjeros a la rusa: la norma que lleva a Georgia al borde de la ruptura con Europa",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/6VVVIBGMXWH7DBIXMW5ONWE33E.jpg?auth=1aef38b4ba0d230915b4bcc5de6ce373baa43a1fb1568eb06f45a858a98ec719&width=414&height=233&focal=2763%2C1688",
+    "descripcion": "Crecen las manifestaciones contra un proyecto que facilitará la persecución de opositores y ONG y torpedea las aspiraciones de ingresar en la UE. Tbilisi acusa a EE UU de alentar la protesta para plantar cara a Moscú",
+    "enlace": "https://elpais.com/internacional/2024-05-03/ley-de-agentes-extranjeros-a-la-rusa-la-norma-que-lleva-a-georgia-al-borde-de-la-ruptura-con-europa.html"
+  },
+  {
+    "id": 15,
+    "titulo": "Detenidos los dos presuntos capos del narcotráfico gallego más escurridizos",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/2HFPWIGUBNH35BOPYUMUH2R23Q.jpg?auth=eb3b30537b1236fd1047d7273643e2a6aa7f81446b01eabf3cba27f18aa0a2d8&width=414&height=233&focal=2078%2C2077",
+    "descripcion": "Pablo Quiroga y Bernabé González Piñeiro, hasta ahora nunca condenados, son considerados los supuestos cabecillas de una trama a la que se le ha intervenido 3 millones de euros en efectivo e importantes cantidades de ocho drogas diferentes",
+    "enlace": "https://elpais.com/espana/2024-05-03/detenidos-los-dos-presuntos-capos-del-narcotrafico-gallego-mas-escurridizos.html?autoplay=1"
+  },
+  {
+    "id": 16,
+    "titulo": "Las obras del canal de acceso ferroviario de Valencia cumplen un año con un 75% de la inversión contratada",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/2LYYRJIGUJF7LKU5NRDABVSUJM.JPG?auth=17220c3661f749a096af3d7b0da323eb75ed029737b17387879ba07aab87b7ff&width=414&height=233&focal=1985%2C1495",
+    "descripcion": "La primera fase del proyecto se completará con el desvío este fin de semana de la línea de alta velocidad a Madrid, según el presidente de Adif",
+    "enlace": "https://elpais.com/espana/comunidad-valenciana/2024-05-03/las-obras-del-canal-de-acceso-ferroviario-de-valencia-cumplen-un-ano-con-un-75-de-la-inversion-contratada.html"
+  },
+  {
+    "id": 17,
+    "titulo": "Elecciones en México 2024, en vivo | El INE inicia la distribución de más de 317 millones de boletas para las elecciones",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/2M5R2M4S5BB5FHOTFD3WVUWR54.jpg?auth=fc5f401f56a90f00e494b58b8648db400dddd5834ce24d075e6a4affc887c4d8&width=414&height=233&focal=2676%2C3191",
+    "descripcion": "México vive uno de los procesos electorales más importantes en su historia, con la renovación de unos 20.000 cargos públicos en todo el país ",
+    "enlace": "https://elpais.com/mexico/elecciones-mexicanas/2024-05-03/elecciones-en-mexico-2024-en-vivo.html"
+  },
+  {
+    "id": 18,
+    "titulo": "Un candidato del PSC dice que Puigdemont se fue de España “meado o cagado” en el maletero",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/JNTYVWJCKRFD3KJSIY5E4SIWSA.jpg?auth=ed638ccf01551e37c845f6b571e6d0e47c5527bb4446cbf2ff45bd829e0701e1&width=414&height=233&smart=true",
+    "descripcion": "El presidente de la UGT Cataluña, que cierra la lista, insulta al líder de Junts en un acto electoral y el partido pide disculpas a las “personas se hayan podido sentir ofendidas”",
+    "enlace": "https://elpais.com/espana/elecciones-catalanas/2024-05-03/un-candidato-del-psc-afirma-en-un-acto-electoral-que-puigdemont-se-fue-de-espana-meado-y-cagado-en-el-maletero.html"
+  },
+  {
+    "id": 19,
+    "titulo": "La justicia panameña avala a última hora la candidatura de José Raúl Mulino, el delfín de Martinelli",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/KVONPUBAOXVXTCJGXGFOTWDDVY.jpg?auth=716a70c61b770bf4c8b027279ec88bc7684fc3e323a735d5bc4ba0c9d4d8da25&width=414&height=233&focal=2524%2C1322",
+    "descripcion": "La Corte Suprema declara constitucional la designación del aspirante que lidera las encuestas para las elecciones presidenciales de este domingo",
+    "enlace": "https://elpais.com/america/2024-05-03/la-justicia-panamena-avala-a-ultima-hora-la-candidatura-de-jose-raul-mulino-el-delfin-de-martinelli.html"
+  },
+  {
+    "id": 20,
+    "titulo": "‘Sono io?’: Papá, hoy levanto el vuelo",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/4FU7F7CHIFATXLG3QZJZZVEF5I.jpg?auth=2010c2f3a0af781ebfa7af08361952a952489e78861a43a0873f120c2202101d&width=414&height=233&smart=true",
+    "descripcion": "Danny y Pepijn Ronaldo firman un poema gestual tan emocionante como divertido sobre la transmisión paternofilial del patrimonio artístico en las familias circenses",
+    "enlace": "https://elpais.com/babelia/2024-05-03/sono-io-papa-hoy-levanto-el-vuelo.html"
+  },
+  {
+    "id": 21,
+    "titulo": "‘Las bingueras de Eurípides’: un vendaval de libertad",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/YGNGMTUIUFFEHKLXFVGTKLFPD4.jpg?auth=52fe4821329b40d11fb944e5e31014f40da23b8574e1232d5fd58c956b0de156&width=414&height=233&smart=true",
+    "descripcion": "Las Niñas de Cádiz arrollan con un nuevo espectáculo en el que la tragedia rezuma bajo la guasa andaluza",
+    "enlace": "https://elpais.com/babelia/2024-05-03/las-bingueras-de-euripides-un-vendaval-de-libertad.html"
+  },
+  {
+    "id": 22,
+    "titulo": "Las críticas de teatro de la semana: la justicia en tiempos de nazis, una tragedia griega con guasa andaluza y un número circense entre padre e hijo",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/QVC4PGJ4OZCYFML7PATTU4DRTY.jpg?auth=d73423c691fa29bc90a28fd6e0114a838367117ec5c95d029023962b8cbdcfd4&width=414&height=233&smart=true",
+    "descripcion": "Las firmas de ‘Babelia’ reseñan los estrenos recientes más destacados",
+    "enlace": "https://elpais.com/babelia/2024-05-03/las-criticas-de-teatro-de-la-semana-la-justicia-en-tiempos-de-nazis-una-tragedia-griega-con-guasa-andaluza-y-un-numero-circense-entre-padre-e-hijo.html"
+  },
+  {
+    "id": 23,
+    "titulo": "‘Els criminals’: libertad sexual antes de la tormenta",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/QVC4PGJ4OZCYFML7PATTU4DRTY.jpg?auth=d73423c691fa29bc90a28fd6e0114a838367117ec5c95d029023962b8cbdcfd4&width=414&height=233&smart=true",
+    "descripcion": "La adaptación del texto de Ferdinand Bruckner en el TNC de Barcelona recuerda que el ideal de justicia sigue siendo un tema plenamente vigente",
+    "enlace": "https://elpais.com/babelia/2024-05-03/els-criminals-libertad-sexual-antes-de-la-tormenta.html"
+  },
+  {
+    "id": 24,
+    "titulo": "El PP cierra filas con la consejera de Salud mientras Moreno baraja un cambio de Gobierno",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ONDZJS3HNNCVNIZ2O6SO4XKCMA.png?auth=94a5b0743f289f660072166b7909b06b55ce995fe64d256a4bbfb66b482b5c40&width=414&height=233&focal=473%2C257",
+    "descripcion": "Todos los consejeros y el equipo de sanidad asisten al debate en el Parlamento en el que la izquierda ha pedido su dimisión",
+    "enlace": "https://elpais.com/espana/andalucia/2024-05-03/el-pp-cierra-filas-con-la-consejera-de-salud-mientras-moreno-baraja-un-cambio-de-gobierno.html"
+  },
+  {
+    "id": 25,
+    "titulo": "María León irá a juicio acusada de agredir a un policía local",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/L4OQKEYW6FEXHLF6PUBSXS5QFA.jpg?auth=ba56b80c19a152b006275594ea5674dde9b972c95782c77911448eafd87032fe&width=414&height=233&smart=true",
+    "descripcion": "La actriz, hermana del también actor Paco León, fue detenida en Sevilla en octubre de 2022 después de escapar de un coche policial y agredir, presuntamente, a una agente. Según la Audiencia, hay “indicios sólidos y racionales” para la celebración del proceso",
+    "enlace": "https://elpais.com/gente/2024-05-03/maria-leon-ira-a-juicio-acusada-de-agredir-a-un-policia-local.html"
+  },
+  {
+    "id": 26,
+    "titulo": "Los efectos deseducadores de las corridas de toros",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/4GKC6U5R2RETDKJE3M566Q35OI.jpg?auth=6a610be50e4e6c3e9c543e88e6941dfc83e2984f50270be1201849b1350fdcbb&width=414&height=233&smart=true",
+    "descripcion": "Debemos preguntarnos si es conveniente para la sociedad seguir manteniendo expresiones culturales que promueven valores confrontados con “la felicidad pública” de la que hablaba Jovellanos",
+    "enlace": "https://elpais.com/cultura/2024-05-03/los-efectos-deseducadores-de-las-corridas-de-toros.html"
+  },
+  {
+    "id": 27,
+    "titulo": "Manos Limpias amplía su denuncia contra Begoña Gómez",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/DYEDLWFW322QTZZVHAK6SSTWSM.jpg?auth=0ce44b18d9a152970d07ed90b76a4e774aebc106139bb015bd6fe12e06adb7a5&width=414&height=233&smart=true",
+    "descripcion": "El pseudosindicato asegura que Sánchez es “cooperador necesario” de los negocios de su esposa, pero descarta  actuar por ahora contra el presidente",
+    "enlace": "https://elpais.com/espana/2024-05-03/manos-limpias-amplia-su-denuncia-contra-begona-gomez.html"
+  },
+  {
+    "id": 28,
+    "titulo": "Collboni ultima las negociaciones para que el Tour de Francia 2026 salga de Barcelona",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WI6JDRLMQO5IRLPLQ3TX3ORAHM.jpg?auth=04342762505d14a5c824ef4e761f44a5ea94b41bd168d4cfa62a2985ef271b84&width=414&height=233&smart=true",
+    "descripcion": " La decisión no está tomada pero el Consistorio lleva seis años intentando seducir a los organizadores",
+    "enlace": "https://elpais.com/espana/catalunya/2024-05-03/collboni-ultima-las-negociaciones-para-que-el-tour-de-francia-2026-salga-de-barcelona.html"
+  },
+  {
+    "id": 29,
+    "titulo": "Paul Auster. Epíleg",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/DYAZ3JRFDZBWRHN7W6GFU6XUPM.jpg?auth=425a3a331434f580fc136915fc1ae6fc74bc9c6012ab9af14c493edcd17241af&width=414&height=233&smart=true",
+    "descripcion": "No havia sentit parlar de la ‘fan fiction’ quan ara fa quinze anys, acabant ‘La nit de l’oracle’, em vaig veure empesa a afegir-hi un capítol més",
+    "enlace": "https://elpais.com/quadern/literatura/2024-05-03/paul-auster-epileg.html"
+  },
+  {
+    "id": 30,
+    "titulo": "El paro sube al 3,9% en Estados Unidos en abril al frenarse la creación de empleo más de lo previsto",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/OJMPGGBOUJHHVJCR4AANZ6UFSM.jpg?auth=67717a82c90b883afa5cc398ecdc5d17b7cf37240b1b38a372b9e68955f7d2da&width=414&height=233&smart=true",
+    "descripcion": "La economía generó 175.000 puestos de trabajo, frente a los 240.000 que esperaban los economistas",
+    "enlace": "https://elpais.com/economia/2024-05-03/el-paro-sube-al-39-en-estados-unidos-en-abril-al-frenarse-la-creacion-de-empleo-mas-de-lo-previsto.html"
+  },
+  {
+    "id": 31,
+    "titulo": "MotoGP aplaza ‘sine die’ su estreno en Kazajistán",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/IVQMKABW4VADHRMNFJPTX56BJQ.jpg?auth=f7e985bce2afac244a41f31201318695a7ff16e3f2fbd500ca3bb118f3a13dd1&width=414&height=233&focal=2188%2C1785",
+    "descripcion": "Dorna anuncia el retraso de la cita inaugural en el autódromo internacional de Sokol, programada para el 16 de junio, por las fuertes inundaciones en el país",
+    "enlace": "https://elpais.com/deportes/motociclismo/2024-05-03/motogp-aplaza-sine-die-su-estreno-en-kazajistan.html"
+  },
+  {
+    "id": 32,
+    "titulo": "El Sindicato de Inquilinos presiona a PSC y Junts para limitar el alquiler de temporada en Cataluña ",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/6OU3FKONIRF6NC6MBLCMLKBIGI.JPG?auth=2f8611d2e6ab32d5386a7151883f17a78b69c3277a0071c12c851414c8c820b3&width=414&height=233&focal=3118%2C514",
+    "descripcion": "La Generalitat necesita apoyo parlamentario para convalidar su decreto que regula las rentas de corta estancia ",
+    "enlace": "https://elpais.com/espana/catalunya/2024-05-03/el-sindicato-de-inquilinos-presiona-a-psc-y-junts-para-limitar-el-alquiler-de-temporada-en-cataluna.html"
+  },
+  {
+    "id": 33,
+    "titulo": "La oposición de comunidades agroecológicas tumba la primera autopista de alta velocidad de Uruguay",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/HGJQTA5YE5EHJK3SO5I2EQQEWY.jpg?auth=315c1d36396da408f557ac2ce8ddd0bd44f45724ddfdbf2697620d4b47f42d42&width=414&height=233&focal=1063%2C347",
+    "descripcion": "El rechazo a los impactos socioambientales y económicos contribuyó a archivar el proyecto de la primera gran carretera de alta velocidad del país",
+    "enlace": "https://elpais.com/america-futura/2024-05-03/la-oposicion-de-comunidades-agroecologicas-tumba-la-primera-autopista-de-alta-velocidad-de-uruguay.html"
+  },
+  {
+    "id": 34,
+    "titulo": "Illa afirma que no pactará con Junts y que Puigdemont es sinónimo de bloqueo",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/3T5YXZ6UFVBH3NC4VRWO42EVJA.jpg?auth=c6238d83456e91b3cab62af636039e82c2e5e9b4af972c4efb5258a8db5522cb&width=414&height=233&smart=true",
+    "descripcion": "El candidato socialista confía en alcanzar la victoria con un voto transversal y afirma que el partido independentista se ha autoexcluido de cualquier alianza",
+    "enlace": "https://elpais.com/espana/elecciones-catalanas/2024-05-03/illa-afirma-que-no-pactara-con-junts-y-que-puigdemont-es-sinonimo-de-bloqueo.html"
+  },
+  {
+    "id": 35,
+    "titulo": "Así es el registro de coronación de Carlos III: 21 metros, escrito a mano y, por primera vez desde 1308, con papel vegano",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/JM4LQZXLIM677YELYT3PEKD4FQ.jpg?auth=17138897f58963aa7a91dcdd788c76c22cf39e65ef5df117c950b5caedaefb24&width=414&height=233&focal=3748%2C1656",
+    "descripcion": "El documento oficial, llamado ‘Rollo de la Coronación’, recoge los momentos destacados del acto real en 30 páginas, con 11.600 palabras e ilustraciones. “Merecen tomarse una copa de algo fuerte”, le dijo a el monarca a una de sus autoras, que estuvo 56 días seguidos trabajando en la obra",
+    "enlace": "https://elpais.com/gente/2024-05-03/asi-es-el-registro-de-coronacion-de-carlos-iii-21-metros-escrito-a-mano-y-por-primera-vez-desde-1308-con-papel-vegano.html"
+  },
+  {
+    "id": 36,
+    "titulo": "El Supremo absuelve a un maltratador de agredir sexualmente de su esposa porque ella no se resistía",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/FMOMOPJDBZEPXLF7MSTT2MSVTY.jpg?auth=cb2ff8eaa46768c253476571abc51ffe568be2061151add5a111ba4362d292da&width=414&height=233&smart=true",
+    "descripcion": "La Sala considera que el maltrato continuado es un potente indicio, pero no una prueba irrefutable de que las relaciones sexuales fuesen forzadas ",
+    "enlace": "https://elpais.com/economia/mis-derechos/2024-05-03/el-supremo-absuelve-a-un-maltratador-de-abusar-sexualmente-de-su-esposa-porque-ella-no-se-resistia.html"
+  },
+  {
+    "id": 37,
+    "titulo": "Dolors Monserrat será la cabeza de lista del PP en las elecciones europeas",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/QKM5RPUIDVYFUXFVNVPDZ5OCDU.jpg?auth=d3a67bf050a7111331dea57e362498b9718c58a129347a4e281d777a02f3cb9a&width=414&height=233&smart=true",
+    "descripcion": "El vicesecretario Esteban González Pons baja al puesto cuarto de la candidatura, detrás de la Consejera de Agricultura de Andalucía y de una diputada de línea dura de la Asamblea de Madrid",
+    "enlace": "https://elpais.com/espana/2024-05-03/dolors-monserrat-sera-la-cabeza-de-lista-del-pp-en-las-elecciones-europeas.html?autoplay=1"
+  },
+  {
+    "id": 38,
+    "titulo": "Condenada una aseguradora a pagar casi 13 millones por “negligencia médica” en un parto en un hospital privado de Santiago ",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/NLPVGQ64EZEG7MDHF544KVDLDA.jpg?auth=6ebc7ebf3c4cf422e1fe6c6bb76e3bd1dea13b8343c750abd60caff72c43f936&width=414&height=233&smart=true",
+    "descripcion": "El retraso en practicar una cesárea conllevó que el niño naciera con parálisis cerebral y severos daños “por mala praxis”, según la sentencia de Primera Instancia ",
+    "enlace": "https://elpais.com/sociedad/2024-05-03/condenada-una-aseguradora-a-pagar-casi-13-millones-por-negligencia-medica-en-un-parto-en-un-hospital-privado-de-santiago.html"
+  },
+  {
+    "id": 39,
+    "titulo": "Vídeo | Propuestas y límites para regenerar la política",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/GIKKZM55VBCTLKHG7VTTXJ6RCQ.jpeg?auth=3d5c4bb5308349cbee2107b60bc2124808856e3a2198cd64c2d342ef2a5409f2&width=414&height=233&smart=true",
+    "descripcion": "La periodista de EL PAÍS, Anabel Díez y el politólogo Víctor Lapuente, debaten sobre las consecuencias de la decisión de Pedro Sánchez",
+    "enlace": "https://elpais.com/videos/2024-05-03/video-propuestas-y-limites-para-regenerar-la-politica.html?autoplay=1"
+  },
+  {
+    "id": 40,
+    "titulo": "Alcaraz recae del antebrazo y no jugará en Roma",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/4NW3JGT5FBE3BGX75HGITQOVJE.jpg?auth=df40e6aa0c9134d3814d58730beec894c554e35109c74fe002a7a2ae829e72f1&width=414&height=233&smart=true",
+    "descripcion": "El murciano, apeado en los cuartos de Madrid, se sometió a una prueba que confirmó un edema muscular en el pronador redondo y frenará hasta París",
+    "enlace": "https://elpais.com/deportes/tenis/2024-05-03/alcaraz-no-jugara-en-roma-al-resentirse-del-brazo.html"
+  },
+  {
+    "id": 41,
+    "titulo": "Contra la perversión del sistema de evaluación de la ciencia",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/O4GDB6CP4BDCJH4KNGUQH65HD4.jpg?auth=ec09c275263cbf5d33ae4bf8a024a4c05e6ea19195c61fe317d8aa9383216621&width=414&height=233&focal=2270%2C1385",
+    "descripcion": "Publicar un artículo en una revista de alto impacto no significa en absoluto que sea una contribución científica de alta calidad",
+    "enlace": "https://elpais.com/ciencia/2024-05-03/contra-la-perversion-del-sistema-de-evaluacion-de-la-ciencia.html"
+  },
+  {
+    "id": 42,
+    "titulo": "‘Los maestros cantores de Núremberg’ desde un palco del Teatro Real",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/CMXEKTDNRNHPXNTQQPVI6IKKSY.png?auth=dd6d71e41467f17e45dbf666612bf2b954273e9e9a4811a0dbca2f9372f61cb0&width=414&height=233&smart=true",
+    "descripcion": "Disfruta de la única comedia de Richard Wagner el próximo 14 de mayo",
+    "enlace": "https://elpais.com/suscripciones/elpaismas/2024-05-03/los-maestros-cantores-de-nuremberg-desde-un-palco-del-teatro-real.html"
+  },
+  {
+    "id": 43,
+    "titulo": "Britney Spears aclara que solo se ha hecho un esguince después de que una ambulancia acudiera a su hotel ",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/SKJR3IHNYZARXDP4UOYIL2UXEA.jpg?auth=548a4fbeb16eae891696019b47bc327327a180cf36f4ec9a4406d9ef35691a14&width=414&height=233&focal=1045%2C379",
+    "descripcion": "La cantante ha explicado que el incidente no ha sido provocado por una pelea con su novio, como han apuntado numerosos medios, sino por una lesión que ella misma ha mostrado en su Instagram en sus típicos mensajes caóticos. Además, acusa a su madre de tenderle “una trampa”",
+    "enlace": "https://elpais.com/gente/2024-05-03/britney-spears-aclara-que-solo-se-ha-hecho-un-esguince-despues-de-que-una-ambulancia-acudiera-a-su-hotel.html"
+  },
+  {
+    "id": 44,
+    "titulo": "El PP acusa a la ONU de mentir en el informe donde censura la derogación de las leyes de memoria pactadas con Vox",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/57VW5HPPBOTCFPTPD5USCFSAKY.jpg?auth=8426f3d79dcf81087ca7011454a5a6489b9c78493de5171a690081a14be2c2d3&width=414&height=233&focal=2104%2C644",
+    "descripcion": "El Gobierno iniciará el trámite legal con Aragón para corregir su reforma y llevarla al Constitucional. Sánchez carga contra el “retroceso” que suponen los “gobiernos autonómicos de Feijóo y Abascal”",
+    "enlace": "https://elpais.com/espana/2024-05-03/el-pp-acusa-a-la-onu-de-mentir-en-el-informe-donde-censura-la-derogacion-de-las-leyes-de-memoria-pactada-con-vox.html?autoplay=1"
+  },
+  {
+    "id": 45,
+    "titulo": "Cómo cuidar el cuero cabelludo y ayudar a reducir la caspa para conseguir un pelo más fuerte y sano",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ZWKCHVASQZGMXNQU2O3OOSHAJM.jpg?auth=6e7f1c9dee39b0a37165bba6c07025270362f662aba5ed34cd83f656540296cc&width=414&height=233&smart=true",
+    "descripcion": "DERCOS Anticaspa DS, el champú de la línea para el cabello de Laboratorios Vichy, ayuda a eliminar el 100% de la caspa visible, contribuye a recuperar el equilibrio del microbioma y, con él, la salud y fuerza capilar. ",
+    "enlace": "https://elpais.com/icon/2024-05-03/como-cuidar-el-cuero-cabelludo-y-ayudar-a-reducir-la-caspa-para-conseguir-un-pelo-mas-fuerte-y-sano.html"
+  },
+  {
+    "id": 46,
+    "titulo": "5 planes gratis en Madrid del 3 al 10 de mayo: previa de San Isidro y viaje al patrimonio de Cuenca",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/AUYBKZFRVJGLVJLQUXCKMI3MMQ.jpg?auth=bf12081a5144f31aebeac5dc1b2931cc3dcad330b5744ab7cfbbd5bf3a150f39&width=414&height=233&smart=true",
+    "descripcion": "El simbolismo del mantón de Manila, los límites de la percepción y la arqueología de la dieta mediterránea son los temas de las exposiciones en mayo",
+    "enlace": "https://elpais.com/espana/madrid/2024-05-03/5-planes-gratis-en-madrid-del-3-al-10-de-mayo-previa-de-san-isidro-y-viaje-al-patrimonio-de-cuenca.html"
+  },
+  {
+    "id": 47,
+    "titulo": "El consejero andaluz de Medio Ambiente asumirá “transitoriamente” las competencias de Agricultura",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/3ZK4U3YNDNHIDIZHJ6EIDWHPBA.jpg?auth=b50766460701084f27f0020cedaf063bc262a991dc9022c435bba70fadfd880c&width=414&height=233&focal=1960%2C1040",
+    "descripcion": "El presidente de la Junta ha anunciado el relevo a la espera de una remodelación más profunda de su Gobierno",
+    "enlace": "https://elpais.com/espana/andalucia/2024-05-03/el-consejero-andaluz-de-medio-ambiente-asumira-transitoriamente-las-competencias-de-agricultura.html"
+  },
+  {
+    "id": 48,
+    "titulo": "El arte de doblar mapas",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/QXBIN5PCSVBDLMG4RMY54F4TV4.jpg?auth=0d2dcca2ea111fb02958957b36ff48b11eff3d438064231af51d7e8d5ab1df9e&width=414&height=233&smart=true",
+    "descripcion": "¿De cuántas maneras distintas puedes doblar un sencillo mapa con dos dobleces verticales y uno horizontal?   ",
+    "enlace": "https://elpais.com/ciencia/el-juego-de-la-ciencia/2024-05-03/el-arte-de-doblar-mapas.html"
+  },
+  {
+    "id": 49,
+    "titulo": "¿Cuánto cuesta una alfombra? Silvia Abril está dispuesta a enrollarse en una por conseguir un buen precio (aunque no es necesario)",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WF3UU5NP4JEX7BHFEBYODHBPLM.jpg?auth=371b46676b64c2a7ea52dd0ed26c6be6e3d199e722402b501542ef10fc723d4e&width=414&height=233&smart=true",
+    "descripcion": "La actriz y humorista ha sido la protagonista de Infiltrados, la nueva campaña de IKEA con la que, a través de una serie de cámaras ocultas, quiere demostrar que los diseños más elegantes de una habitación no tienen por qué ser los más caros",
+    "enlace": "https://elpais.com/smoda/2024-05-03/cuanto-cuesta-una-alfombra-silvia-abril-esta-dispuesta-a-enrollarse-en-una-por-conseguir-un-buen-precio-aunque-no-es-necesario.html"
+  },
+  {
+    "id": 50,
+    "titulo": "¿La tauromaquia, patrimonio cultural? ¡Anda ya…!",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/2QKJLTFCVNEFLMX5GEVD4JSOTI.jpg?auth=acf7cdbe5786263385397c58de87bb3bd37366e581b390d0e7a47e9fc62ac3de&width=414&height=233&smart=true",
+    "descripcion": "El ministro Ernest Urtasun suprime el Premio Nacional de Tauromaquia y la mayoría de las comunidades autónomas consideradas ‘taurinas’ arrinconan los toros en consejerías alejadas de Cultura a pesar de que siete de ellas la han declarado Bien de Interés Cultural",
+    "enlace": "https://elpais.com/cultura/el-toro-por-los-cuernos/2024-05-03/la-tauromaquia-patrimonio-cultural-anda-ya.html"
+  },
+  {
+    "id": 51,
+    "titulo": "El escrutinio provisional de las elecciones municipales de Inglaterra pone a Sunak contra las cuerdas",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/IKNIWUNFARHWZL5LKDWIXTB3F4.jpg?auth=c338702e5ef79cdaa0022fadffaf350568e06b195c131898f07716ba9e9d3081&width=414&height=233&smart=true",
+    "descripcion": "Sunak se aferra a los pocos datos positivos de la jornada, como la victoria conservadora en la región de Tees Valley, para templar ánimos, ante la posible revuelta del ala dura del partido. El Partido Laborista reclama un adelanto de las elecciones generales",
+    "enlace": "https://elpais.com/internacional/2024-05-03/los-primeros-resultados-de-las-elecciones-municipales-de-inglaterra-ponen-a-sunak-contra-las-cuerdas.html"
+  },
+  {
+    "id": 52,
+    "titulo": "El turismo cierra el mejor primer trimestre de su historia con 16 millones de llegadas",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/2YKAWRD55RETLHTURQRJ7HMKWQ.jpg?auth=a9735dacf1a5b422fe5d3fe2ee610c77b55e12fc65d46ddc19f43f36cbe76c32&width=414&height=233&smart=true",
+    "descripcion": "El gasto repuntó un 27% anual entre enero y marzo y tocó máximos históricos",
+    "enlace": "https://elpais.com/economia/2024-05-03/el-turismo-cierra-el-mejor-primer-trimestre-de-su-historia-con-16-millones-de-llegadas.html"
+  },
+  {
+    "id": 53,
+    "titulo": "¿Por qué se genera la caspa y qué se puede hacer para evitarla?",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/753GVAORSNHAHEMZVXHNWZT2CA.jpg?auth=f986178ff7ce2e559fd6d3ed28a3e2f812f02522b30571c3c4d22729c720028b&width=414&height=233&smart=true",
+    "descripcion": "Es una afección crónica muy habitual que afecta al 50% de la población según diversos estudios. Los Laboratorios Vichy proponen rutinas para llegar a controlar su aparición.",
+    "enlace": "https://elpais.com/eps/2024-05-03/por-que-se-genera-la-caspa-y-que-se-puede-hacer-para-evitarla.html"
+  },
+  {
+    "id": 54,
+    "titulo": "Urtasun cancela el Premio Nacional de Tauromaquia por “la tortura animal”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/XOFIDGZMDOJLUKUJ4F2HRJRHMQ.jpg?auth=f7fabb3dbda7f1bdd7554f9171011415ab98d32b1db4c6ad96db75e4b8d8ad05&width=414&height=233&smart=true",
+    "descripcion": "El Ministerio de Cultura, en manos de Sumar, ha suprimido el galardón de este año y ha iniciado los trámites para su anulación definitiva. Se entregaba desde 2013 con una dotación de 30.000 euros",
+    "enlace": "https://elpais.com/cultura/2024-05-03/el-ministerio-de-cultura-elimina-el-premio-nacional-de-tauromaquia.html?autoplay=1"
+  },
+  {
+    "id": 55,
+    "titulo": "Formarse después de los 55: nunca es demasiado tarde para aprender",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/DQWM3KH4HTXXHZLSOCWX5SMZFA.jpg?auth=fa0df72b8791f53fced7b745bdb6db9155f07f15bb9cd3eb1a74506897a33600&width=414&height=233&smart=true",
+    "descripcion": "Los programas de formación para mayores ayudan a obtener nuevas competencias y tienen numerosos beneficios emocionales, materiales y psicológicos",
+    "enlace": "https://elpais.com/economia/formacion/2024-05-03/formarse-despues-de-los-55-nunca-es-demasiado-tarde-para-aprender.html"
+  },
+  {
+    "id": 56,
+    "titulo": "De casi 30 euros a 11,36: la luz de emergencia más vendida de Amazon, a precio de chollo",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/7YLP6Q4HDFCNHO4K3KZN7QFNNQ.png?auth=d12ab62224b4f0096c1a733a90c4d98ba64c92c09da6c5fdab7bf84c4f961fba&width=414&height=233&smart=true",
+    "descripcion": "La luz de señalización V-16 de Help Flash tenía un precio original de 29,95 euros y ahora se ofrece con un 62% de descuento",
+    "enlace": "https://elpais.com/escaparate/2024-05-03/de-casi-30-euros-a-1136-la-luz-de-emergencia-mas-vendida-de-amazon-a-precio-de-chollo.html"
+  },
+  {
+    "id": 57,
+    "titulo": "Últimas noticias de la información política, en directo | Feijóo equipara a Sánchez con Puigdemont: “Se creen los amos, pero los políticos somos servidores”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/RMDCK5HBFNALPKPSMV7C3PYVMI.jpg?auth=9b7c5e8e2816d03b65c785de6eafd733d1b92b581bf4c2b603f5bc06aab8293a&width=414&height=233&smart=true",
+    "descripcion": "Illa pide que no se produzca un bloqueo electoral tras los comicios del 12-M: “Ni vetos ni bloqueo” | Vox considera que el informe de la ONU contra las llamadas leyes de concordia “pretende influir en un país soberano” ",
+    "enlace": "https://elpais.com/espana/2024-05-03/ultimas-noticias-de-la-informacion-politica-en-directo.html"
+  },
+  {
+    "id": 58,
+    "titulo": "GP de Miami de F1 2024: horario y dónde ver la clasificación para la carrera sprint",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/IG6PXQ3AXZTHTKVW3XG3J45EBQ.jpg?auth=cde43ce311f7a5a33e2727c6eb12fcabf95fbb82965f84bab4181fe90f81fae6&width=414&height=233&focal=1000%2C1510",
+    "descripcion": "Verstappen lidera en los entrenamientos libres 1 seguido de Piastri en segunda posición y de Sainz que completa el podio en tercer lugar",
+    "enlace": "https://elpais.com/deportes/formula-1/2024-05-03/gp-de-miami-de-f1-horario-y-donde-ver-la-carrera.html"
+  },
+  {
+    "id": 59,
+    "titulo": "Las cinco noticias clave del 3 de mayo",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ADKBUEV4MVHY7CNTJTRQBJCPBA.jpg?auth=ac69c1b82858447987368454483be87e770a08305834b741c6568651c4a8934a&width=414&height=233&smart=true",
+    "descripcion": "Una selección de las historias de actualidad de la jornada  ",
+    "enlace": "https://elpais.com/actualidad/noticias-del-dia/2024-05-03/las-cinco-noticias-clave-del-3-de-mayo.html"
+  },
+  {
+    "id": 60,
+    "titulo": "Regalos para el Día de la Madre que llegan a tiempo con Amazon Prime",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/V5DAAKXGMVEA3HD3TCLTP3BCCA.png?auth=c186d6cf5a5e5b62c08ef652194a9f159fa9d4215c87e85f214439b8ce8662a2&width=414&height=233&smart=true",
+    "descripcion": "10 opciones para todos los presupuestos y gustos que se entregan en cajas decorativas listas para sorprender. ",
+    "enlace": "https://elpais.com/escaparate/estilo-de-vida/2024-05-03/regalos-dia-de-la-madre.html"
+  },
+  {
+    "id": 61,
+    "titulo": "Guerra entre Israel y Gaza, en directo | Hamás envía una delegación a El Cairo para tratar el alto el fuego",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/EZPN36OE6NAXZMC6XNHBD2R4ZA.jpg?auth=e406912b41f6ba7cce03af00855bfc5a7b57075e7760b90f506d33b45e913743&width=414&height=233&smart=true",
+    "descripcion": "Un oficial de la milicia palestina confirma a Reuters que la comitiva llega este sábado a Egipto | La policía desaloja a los estudiantes propalestinos encerrados en el centro de Sciences Po, en París | Israel lleva ante la OCDE la decisión de Turquía de romper relaciones comerciales ",
+    "enlace": "https://elpais.com/internacional/2024-05-03/guerra-entre-israel-y-gaza-en-directo.html"
+  },
+  {
+    "id": 62,
+    "titulo": "Este es el perfume con olor a limpio por el que me preguntan cada primavera",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/MJY4XBT56JFB5PCPEM4AWJ7NZI.png?auth=9dc2be1b63931ee47a9f1f5e9bec74f01ba63f5f6821751df0cd24668a456af0&width=414&height=233&smart=true",
+    "descripcion": "La fragancia ‘Light Blue’ de Dolce & Gabbana, que lleva siendo un éxito desde hace 20 años, es perfecta para los amantes de los cítricos ",
+    "enlace": "https://elpais.com/escaparate/belleza/2024-05-03/dolce-gabbana-light-blue.html"
+  },
+  {
+    "id": 63,
+    "titulo": "Jornada 34 de La Liga: horarios, resultados y resúmenes de los partidos",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/I4CFKPYSGGWADFWSZLNSL2MRFA.jpg?auth=559e73541a7bd81ae4704defb36a9f2e3e96ed4fdb85cea22581624e1a79868c&width=414&height=233&focal=1895%2C370",
+    "descripcion": "El Real Madrid recibe al Cádiz en el Santiago Bernabéu | Girona y Barcelona se disputan un billete para la Supercopa",
+    "enlace": "https://elpais.com/deportes/futbol/2024-05-03/jornada-34-de-la-liga-horarios-resultados-y-resumenes-de-los-partidos.html"
+  },
+  {
+    "id": 64,
+    "titulo": "Planes en Barcelona este fin de semana | Tacos en Montjuïc, vinilos en Arc de Triomf o teatro y música en Santa Coloma",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/AKGYZJRPDRFFTC7RRDJL5ZI4FQ.jpg?auth=a053d099e620b2edcb8801602e07ed395cfdf0e13f75487a163ce26dba62257a&width=414&height=233&smart=true",
+    "descripcion": "15 restaurantes mexicanos ofrecen sus platos estrella en el Taco Fest y el Límbic Festival saca la cultura fuera de Barcelona con Maria Hein o Julieta ",
+    "enlace": "https://elpais.com/espana/catalunya/barcelona-se-sale/2024-05-03/planes-en-barcelona-este-fin-de-semana-tacos-en-montjuic-vinilos-en-arc-de-triomf-o-teatro-y-musica-en-santa-coloma.html"
+  },
+  {
+    "id": 65,
+    "titulo": "Los Knicks dejan fuera de los ‘playoffs’ a los 76ers de Joel Embiid en un partido loco",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/NZ4IM7WYUF5PNXNZ6OSEA4GBYQ.jpg?auth=fc6080950e7e13bdf5b95c38fc727f1360d2542b8c554d393aac5cef74e60638&width=414&height=233&smart=true",
+    "descripcion": "El partido llegó igualado al último medio minuto tras una diferencia que llegó a ser de 22 puntos a favor de los neoyorquinos",
+    "enlace": "https://elpais.com/deportes/baloncesto/2024-05-03/los-knicks-dejan-fuera-de-los-playoffs-a-los-76ers-de-joel-embiid-en-un-partido-loco.html"
+  },
+  {
+    "id": 66,
+    "titulo": "La ONU insta a España a adoptar “las medidas necesarias” contra “las leyes de concordia” de PP y Vox ",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/US6JI5HOHNHYDP7H3TGDCD5ZOE.jpg?auth=21c1f5b206b83ae5d0b78c972be6b1b82c769dd43381a9085fdbdb7bc793d939&width=414&height=233&focal=1488%2C552",
+    "descripcion": "Naciones Unidas responde al escrito del Gobierno pidiendo amparo por la derogación de las leyes regionales de memoria y alerta sobre el “negacionismo”",
+    "enlace": "https://elpais.com/espana/2024-05-03/la-onu-insta-a-espana-a-adoptar-las-medidas-necesarias-contra-las-leyes-de-concordia-de-pp-y-vox.html?autoplay=1"
+  },
+  {
+    "id": 67,
+    "titulo": "¿Qué le pasa a Brasil, donde todo mejora y nadie parece estar contento?",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ZKVXWIXIBZ626FKI676XBDKHJQ.jpg?auth=02c044ae98ca5bf041abc97df7bfc11febbe208671b589154e97e68ae151a832&width=414&height=233&focal=1550%2C2190",
+    "descripcion": "Hoy un presidente no puede hacer alarde de no tener un teléfono móvil, o seguir creyendo que las redes sociales puedan atraer a los más pobres, como en el pasado, a sus mítines ",
+    "enlace": "https://elpais.com/opinion/2024-05-03/que-le-pasa-a-brasil-donde-todo-mejora-y-nadie-parece-estar-contento.html"
+  },
+  {
+    "id": 68,
+    "titulo": "Las protestas universitarias en solidaridad con Gaza se extienden a México: “Estamos llamando de forma urgente a que se pare un genocidio”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/M26253UQ3VGNHFHVZLFCBAVAE4.jpg?auth=7073e4e323ea8e6402bc5239780cb590ca2e3098c88367dae9df011e7421811c&width=414&height=233&focal=3705%2C1883",
+    "descripcion": "El movimiento estudiantil contra la guerra que ha tomado los campus de EE UU se propaga con el primer campamento en apoyo a Palestina de Latinoamérica, en la UNAM, la gran casa de estudios mexicana ",
+    "enlace": "https://elpais.com/mexico/2024-05-03/las-protestas-universitarias-en-solidaridad-con-gaza-se-extienden-a-mexico-estamos-llamando-de-forma-urgente-a-que-se-pare-un-genocidio.html?autoplay=1"
+  },
+  {
+    "id": 69,
+    "titulo": "Las protestas universitarias en Estados Unidos no contagian a América Latina",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/OSCWHFIDRZGOFNHKNJHBQK3UNU.jpg?auth=294f207c35e2478293c1153ee7289286104403e2e5db1d8914ab94d13710cd4c&width=414&height=233&smart=true",
+    "descripcion": "Las principales casas de altos estudios de la región no se pliegan a las demandas contra la guerra en Gaza",
+    "enlace": "https://elpais.com/america/2024-05-03/las-protestas-universitarias-en-estados-unidos-no-contagian-a-america-latina.html"
+  },
+  {
+    "id": 70,
+    "titulo": "El destino fatal de Landy Párraga, reina de belleza ecuatoriana ",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/UA4GFI7TCZGDBNQRFPT4VJZKPY.jpeg?auth=5a81cd03bc22197436059b5315cba8335c5321197df5046e7d2c6e607d1ee514&width=414&height=233&focal=441%2C359",
+    "descripcion": "La modelo asesinada, de 23 años, aparece citada en los mensajes guardados en el teléfono de un narcotraficante",
+    "enlace": "https://elpais.com/america/2024-05-03/el-destino-fatal-de-landy-parraga-reina-de-belleza-ecuatoriana.html"
+  },
+  {
+    "id": 71,
+    "titulo": "Monumento nacional a la desidia",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/HUPIIT4DZRGEDEKIDEX6DSEZ6E.jpg?auth=4348ca06231174090b3235436892efeebf2ec3058c711ebe4664dcbe55210f17&width=414&height=233&focal=2045%2C1693",
+    "descripcion": "El Parque Nacional es un monumento a Colombia, pues muestra el constante maltrato a las poblaciones más vulnerables y la nula capacidad del Estado para resolver problemas que parecen sencillos",
+    "enlace": "https://elpais.com/america-colombia/2024-05-03/monumento-nacional-a-la-desidia.html"
+  },
+  {
+    "id": 72,
+    "titulo": "El repunte de la inflación complica el panorama al Banco de México",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/AGL3C4ZQNBAQVO5NAPVNVF2TWE.png?auth=4dee6f11ce7bcac3e0b9a7dba5b4fb212815a0c7a0f3d42eb300a9c000833c25&width=414&height=233&focal=605%2C302",
+    "descripcion": "Frente al reciente incremento en la escalada de precios en el país, los expertos coinciden en que el banco central optará por la cautela y mantendrá la tasa de interés en 11%",
+    "enlace": "https://elpais.com/mexico/economia/2024-05-03/el-repunte-de-la-inflacion-complica-el-panorama-al-banco-de-mexico.html"
+  },
+  {
+    "id": 73,
+    "titulo": "El Clan del Golfo busca un rango político y niega tener un origen paramilitar",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/A43L3O3DL5DUJAPBHBXYXEM2SA.png?auth=0e301b72eb078d3cd1fc43587958dda728b07822e93b85947ae487d8b372b0e1&width=414&height=233&focal=2049%2C628",
+    "descripcion": "Los comandantes del autodenominado Ejército Gaitanista de Colombia piden que se levanten las órdenes de captura en su contra",
+    "enlace": "https://elpais.com/america-colombia/2024-05-03/el-clan-del-golfo-busca-un-rango-politico-y-niega-tener-un-origen-paramilitar.html"
+  },
+  {
+    "id": 74,
+    "titulo": "Veinticuatro científicos absueltos y tres años de litigios: así se desmorona el caso de la Fiscalía contra los investigadores del Conacyt",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/LEETMLIABJDFDBHHCDJMREVFZU.jpg?auth=efbcd91ad3836ea150c6bdd01c7bd6ab5b0048d67ec3b853565e1622d912600f&width=414&height=233&focal=2260%2C600",
+    "descripcion": "Un tribunal federal cierra la investigación contra 12 académicos del sexenio de Peña Nieto por delincuencia organizada, corrupción y lavado de dinero",
+    "enlace": "https://elpais.com/mexico/2024-05-03/veinticuatro-cientificos-absueltos-y-tres-anos-de-litigios-asi-se-desmorona-el-caso-de-la-fiscalia-contra-los-investigadores-del-conacyt.html"
+  }
+]
